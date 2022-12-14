@@ -32,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinesh-jain&show_icons=true&locale=en&layout=compact" alt="abinesh-jain" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinesh-jain&show_icons=true&locale=en" alt="abinesh-jain" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abinesh-jain&" alt="abinesh-jain" /></p>
